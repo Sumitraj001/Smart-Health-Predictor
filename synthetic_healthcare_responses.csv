@@ -1,0 +1,1001 @@
+PatientID,HeartRate (bpm),SpO2 (%),BloodPressure (Systolic/Diastolic),Temperature (°C),GlucoseLevel (mg/dL),Steps,DeviceLocation,UsingWearable,Symptoms
+856,99,90,114/81,38.2,149,118,Clinic,Yes,Dizziness
+119,78,92,139/72,36.9,150,4320,Clinic,No,None
+462,66,97,111/77,36.3,183,223,Hospital,Yes,Fatigue
+197,104,93,121/80,38.1,160,5389,Clinic,Yes,None
+851,100,94,113/70,36.7,188,6809,Clinic,No,None
+456,89,91,138/83,37.7,167,5570,Clinic,No,Chest pain
+262,89,97,115/86,36.8,197,3648,Home,Yes,Fatigue
+906,91,94,134/85,37.2,160,8224,Hospital,Yes,Dizziness
+211,89,96,111/76,38.4,130,1087,Hospital,Yes,Fatigue
+361,109,94,112/79,36.3,87,2876,Hospital,Yes,Dizziness
+408,110,95,137/73,37.5,167,5633,Home,No,None
+677,100,95,127/73,36.0,199,4527,Hospital,Yes,Fatigue
+950,117,100,134/72,36.9,86,7078,Home,No,Fatigue
+762,103,94,118/79,36.3,88,1474,Hospital,Yes,Dizziness
+740,107,90,132/85,36.6,194,4846,Home,No,None
+433,102,91,133/82,37.8,98,6969,Hospital,No,Fatigue
+565,111,96,127/73,37.5,152,1102,Clinic,Yes,None
+783,69,92,111/83,36.1,103,9950,Home,No,Fatigue
+640,114,95,114/83,38.0,161,4178,Hospital,No,Chest pain
+138,73,94,125/76,36.1,181,3576,Clinic,No,Fatigue
+818,100,98,116/90,36.9,136,313,Hospital,No,Fatigue
+293,75,98,134/76,36.8,89,8444,Clinic,Yes,Dizziness
+983,100,96,110/81,36.6,109,1187,Home,No,None
+589,61,98,117/88,37.2,83,4328,Clinic,Yes,Dizziness
+840,75,91,113/86,37.7,171,1987,Hospital,No,None
+240,95,95,114/89,36.7,140,5136,Home,No,Chest pain
+124,115,92,132/89,37.4,98,1420,Home,Yes,Chest pain
+428,116,95,139/85,37.2,105,7819,Home,No,Dizziness
+212,91,90,135/82,37.5,174,8762,Hospital,Yes,None
+150,116,100,124/90,36.3,145,9664,Home,No,None
+466,60,95,125/80,36.2,147,4812,Home,Yes,Dizziness
+400,119,93,119/87,37.1,176,7582,Home,Yes,Chest pain
+227,82,98,123/72,37.2,200,3426,Clinic,Yes,Dizziness
+210,116,100,124/90,37.2,170,1682,Home,Yes,Dizziness
+440,108,97,130/82,37.0,106,7035,Hospital,No,Dizziness
+806,102,98,133/79,38.0,161,6748,Clinic,No,Fatigue
+775,69,96,136/71,38.2,148,1059,Home,Yes,Fatigue
+195,118,97,133/72,36.3,191,4068,Hospital,Yes,Fatigue
+566,62,98,122/90,37.1,175,2918,Home,No,Dizziness
+331,84,98,132/79,36.5,174,8491,Clinic,Yes,Fatigue
+922,79,96,126/87,36.1,176,8207,Clinic,Yes,Chest pain
+752,83,96,128/73,36.7,129,8501,Clinic,Yes,Dizziness
+395,71,98,116/75,38.1,155,4213,Clinic,Yes,None
+477,99,97,138/90,37.4,120,1766,Home,No,Chest pain
+685,98,92,115/89,38.2,154,5920,Clinic,No,Chest pain
+118,81,98,118/85,38.1,143,3962,Home,No,Chest pain
+115,72,97,133/72,37.6,101,9290,Clinic,No,Dizziness
+996,88,92,128/89,37.8,160,8035,Clinic,Yes,None
+227,106,95,117/72,36.7,146,2729,Hospital,No,Dizziness
+783,103,92,116/85,37.5,159,8974,Clinic,No,Dizziness
+321,92,93,136/84,37.8,178,4588,Home,No,None
+325,109,90,126/74,36.2,185,8779,Clinic,Yes,Dizziness
+704,80,94,110/80,38.2,80,3435,Hospital,No,None
+383,98,100,130/74,37.3,154,1426,Hospital,No,Dizziness
+977,63,98,138/79,37.9,112,3598,Hospital,No,Chest pain
+123,77,100,130/78,37.5,194,5894,Clinic,Yes,Fatigue
+100,60,94,128/90,36.1,137,6483,Home,Yes,Chest pain
+674,65,94,110/72,36.1,180,1424,Clinic,No,Dizziness
+406,76,99,122/73,38.1,165,544,Clinic,Yes,Chest pain
+892,98,94,134/83,37.8,99,5939,Home,Yes,Dizziness
+611,90,100,124/89,38.3,123,7556,Clinic,No,Fatigue
+404,101,100,139/73,36.3,163,8137,Hospital,No,Dizziness
+532,102,93,115/81,37.3,89,3570,Home,No,Dizziness
+727,99,90,136/79,37.2,126,9122,Clinic,No,Fatigue
+630,87,99,115/86,36.0,93,7116,Home,No,Chest pain
+150,118,90,125/86,38.4,140,5331,Hospital,No,None
+562,86,93,112/78,38.2,140,5314,Home,Yes,Dizziness
+881,67,92,130/72,37.4,157,1501,Clinic,No,Dizziness
+314,103,94,111/70,38.3,113,9564,Home,Yes,Chest pain
+857,112,90,122/77,37.5,177,9325,Home,Yes,None
+577,113,97,131/81,38.2,159,9331,Home,No,Chest pain
+383,102,91,122/78,38.0,142,3063,Clinic,No,None
+951,75,92,114/76,37.0,112,5256,Hospital,Yes,Fatigue
+871,107,90,139/90,37.3,84,7297,Home,No,Dizziness
+468,110,98,140/82,37.6,120,9573,Hospital,No,Dizziness
+399,69,91,118/77,37.2,159,749,Hospital,No,Fatigue
+709,70,98,116/70,36.3,155,4851,Clinic,Yes,Dizziness
+556,115,93,127/86,36.2,91,5833,Home,Yes,Chest pain
+785,114,97,132/89,36.8,163,5711,Clinic,Yes,Chest pain
+498,88,97,139/81,38.2,126,8375,Hospital,No,Dizziness
+405,74,95,114/90,37.4,141,7860,Home,Yes,Fatigue
+766,76,92,140/74,36.5,85,5118,Hospital,No,Chest pain
+218,114,96,113/90,38.3,154,6677,Clinic,No,None
+849,92,96,122/76,37.6,123,4470,Clinic,No,Chest pain
+635,113,96,113/79,36.1,137,9440,Hospital,Yes,Fatigue
+343,70,94,115/80,37.6,129,9266,Hospital,Yes,Chest pain
+414,72,99,131/71,36.5,197,3008,Clinic,Yes,Dizziness
+815,99,100,114/73,37.6,186,2707,Clinic,Yes,None
+993,101,94,112/82,38.0,164,88,Home,No,None
+301,61,93,123/72,36.5,160,9247,Clinic,Yes,Dizziness
+155,119,94,124/72,37.9,173,1595,Home,Yes,Dizziness
+590,87,96,130/76,37.1,139,5809,Home,No,None
+366,87,98,125/81,37.4,185,8000,Hospital,No,Fatigue
+151,83,92,127/71,38.3,182,2676,Clinic,No,Dizziness
+847,95,99,128/78,36.6,171,7299,Home,No,Chest pain
+578,99,91,123/78,36.7,177,1599,Home,No,Dizziness
+536,89,93,111/78,37.2,193,2570,Clinic,No,None
+694,106,92,134/74,38.3,83,298,Hospital,Yes,Fatigue
+260,110,100,115/84,36.2,174,5746,Clinic,Yes,Chest pain
+875,80,92,139/75,37.7,174,4214,Home,Yes,Dizziness
+667,88,99,138/76,36.6,138,33,Hospital,Yes,Dizziness
+238,92,92,139/71,36.4,190,301,Home,Yes,None
+716,77,98,137/78,36.9,86,1001,Clinic,No,Fatigue
+784,90,97,121/83,36.1,110,4932,Hospital,No,Dizziness
+100,72,92,130/78,36.2,196,9602,Home,Yes,Chest pain
+784,119,100,125/86,36.4,191,2162,Clinic,Yes,Dizziness
+817,90,95,124/79,37.4,82,8206,Home,No,Fatigue
+183,110,94,112/77,38.2,142,2526,Clinic,No,Dizziness
+366,60,92,112/87,36.4,188,1155,Hospital,No,Chest pain
+952,72,90,130/89,37.6,187,4907,Hospital,No,None
+388,71,93,134/90,37.9,109,1059,Clinic,Yes,Chest pain
+663,108,96,131/71,37.9,197,9232,Clinic,Yes,Chest pain
+716,71,97,118/89,36.8,173,156,Hospital,No,None
+685,113,97,111/90,36.8,185,2516,Hospital,No,None
+468,62,100,121/75,37.2,124,4320,Hospital,No,None
+504,84,90,122/80,36.7,137,6366,Hospital,No,Chest pain
+451,83,94,113/75,37.7,142,8177,Hospital,Yes,None
+130,102,93,131/80,37.6,181,8780,Hospital,No,None
+308,70,98,128/76,37.9,191,4900,Hospital,Yes,Fatigue
+170,95,91,140/70,36.4,198,1840,Clinic,No,None
+798,80,92,118/89,37.6,113,6783,Clinic,Yes,Dizziness
+240,116,96,115/88,38.1,175,4954,Hospital,Yes,Chest pain
+646,113,91,135/85,37.7,86,7465,Hospital,No,Chest pain
+572,69,94,116/73,37.7,176,646,Home,Yes,Dizziness
+183,110,94,136/76,36.1,134,6158,Home,Yes,Fatigue
+973,91,94,127/85,36.5,180,5244,Home,No,None
+405,117,99,117/75,37.3,111,6689,Home,No,Chest pain
+790,74,92,120/88,37.1,116,6790,Clinic,No,Fatigue
+545,110,92,135/90,36.3,164,9403,Clinic,No,Chest pain
+191,92,95,138/71,37.4,199,634,Clinic,No,Chest pain
+603,110,96,121/89,37.7,142,9943,Home,Yes,Chest pain
+386,96,96,116/81,38.2,180,6870,Hospital,Yes,None
+256,73,98,129/77,37.0,81,1516,Clinic,No,Chest pain
+950,91,99,130/75,38.1,82,9508,Hospital,Yes,Dizziness
+136,68,95,112/79,37.2,127,8596,Home,No,Fatigue
+273,67,94,111/84,36.9,102,9105,Clinic,No,None
+544,86,99,111/90,38.3,111,3034,Home,No,Dizziness
+670,80,96,128/81,36.0,184,9234,Hospital,Yes,Fatigue
+677,80,99,125/71,37.4,155,4397,Home,No,Dizziness
+435,105,92,126/88,37.3,130,4272,Hospital,No,Dizziness
+419,118,90,128/76,37.8,151,2661,Clinic,Yes,Fatigue
+668,98,91,133/71,36.7,146,6331,Clinic,Yes,Chest pain
+218,75,90,134/70,38.0,97,3023,Clinic,Yes,None
+552,117,92,111/79,38.1,145,5731,Home,Yes,None
+967,104,93,118/88,36.3,80,1577,Clinic,Yes,Fatigue
+992,63,90,117/87,37.4,102,8962,Home,Yes,Fatigue
+896,114,97,117/76,36.6,174,3474,Home,Yes,Fatigue
+145,74,94,126/89,36.7,138,6953,Clinic,No,Dizziness
+226,79,91,114/84,36.8,135,6896,Hospital,Yes,Dizziness
+807,81,98,135/70,38.2,192,9973,Clinic,No,Chest pain
+790,76,96,117/75,36.1,164,6950,Hospital,Yes,Fatigue
+558,119,94,138/79,38.4,179,926,Hospital,No,Dizziness
+507,73,93,128/84,37.1,132,4565,Hospital,Yes,Fatigue
+245,70,95,139/86,36.2,81,6669,Hospital,No,Chest pain
+974,73,100,124/70,37.4,184,5058,Home,Yes,Chest pain
+883,66,99,138/80,36.5,114,5283,Hospital,Yes,Dizziness
+811,117,97,116/71,37.4,125,5701,Hospital,No,Dizziness
+670,105,91,131/84,37.9,101,4365,Home,No,Fatigue
+852,114,90,122/74,38.0,177,5472,Hospital,No,Dizziness
+846,87,96,113/82,37.2,128,299,Hospital,Yes,Fatigue
+989,75,96,111/77,37.5,144,8295,Home,No,Fatigue
+245,109,93,114/72,37.9,166,6892,Clinic,Yes,Fatigue
+774,94,97,111/77,36.7,105,4186,Clinic,No,Chest pain
+605,75,99,114/89,36.5,178,9133,Home,Yes,Chest pain
+437,119,97,115/77,38.0,177,5929,Home,No,None
+430,114,94,117/74,36.2,115,6545,Clinic,Yes,None
+657,60,98,119/70,38.3,87,5162,Home,Yes,Fatigue
+461,94,99,138/70,36.1,85,1632,Hospital,No,Dizziness
+253,76,93,126/82,37.4,152,4087,Home,No,None
+676,85,94,112/84,38.5,125,7609,Clinic,No,Dizziness
+861,115,93,126/86,37.9,172,415,Clinic,Yes,Fatigue
+280,106,94,114/71,36.2,178,2920,Clinic,Yes,Chest pain
+129,60,97,139/87,36.8,88,6115,Hospital,Yes,Dizziness
+984,99,90,134/77,36.6,173,4589,Hospital,Yes,Dizziness
+960,90,97,117/88,36.4,156,4191,Clinic,No,Fatigue
+869,117,96,116/89,36.9,108,5724,Clinic,Yes,Chest pain
+537,84,90,136/85,38.3,167,2217,Home,Yes,None
+358,94,90,121/86,36.3,149,8299,Hospital,Yes,Fatigue
+336,105,97,126/82,36.5,91,8050,Home,Yes,Chest pain
+917,89,91,130/87,38.3,118,1887,Home,No,Fatigue
+781,64,90,125/71,36.4,140,4994,Clinic,No,Dizziness
+823,101,97,113/80,37.4,195,8178,Clinic,No,None
+975,71,91,138/86,36.9,188,8376,Clinic,Yes,Dizziness
+108,103,91,113/85,36.7,200,6815,Home,Yes,Dizziness
+965,89,92,112/74,36.0,123,1301,Clinic,No,Dizziness
+471,65,100,130/77,38.1,177,7763,Clinic,No,Dizziness
+586,95,98,119/81,36.9,128,6699,Hospital,Yes,Fatigue
+752,120,97,117/79,37.0,115,2577,Home,Yes,None
+188,68,97,130/70,37.1,101,197,Home,Yes,Chest pain
+993,79,91,130/86,37.6,175,6486,Hospital,No,Dizziness
+894,101,92,117/90,37.5,187,3179,Hospital,No,None
+113,64,93,120/88,37.6,177,6127,Hospital,No,Chest pain
+381,62,100,137/73,36.0,119,6263,Home,Yes,Dizziness
+742,86,97,136/87,37.3,100,5807,Hospital,Yes,Dizziness
+250,69,99,128/85,37.0,164,9627,Clinic,Yes,Fatigue
+426,108,93,126/78,36.5,121,1224,Clinic,No,Fatigue
+919,120,94,123/85,37.1,86,8508,Home,No,Chest pain
+972,65,96,123/80,37.0,156,9714,Hospital,Yes,Fatigue
+241,99,98,132/70,36.5,116,2084,Clinic,Yes,Chest pain
+671,68,95,133/71,37.6,83,1468,Hospital,No,Chest pain
+855,95,100,123/83,36.3,189,7392,Home,Yes,Fatigue
+808,89,92,121/74,38.2,99,9664,Home,No,Dizziness
+113,99,98,135/82,37.7,85,3929,Home,No,None
+830,104,94,131/80,36.5,162,3095,Clinic,Yes,Fatigue
+400,109,94,135/74,36.7,131,5065,Home,No,None
+925,96,90,132/75,37.1,161,8727,Home,No,Dizziness
+129,110,98,134/70,38.2,108,1681,Clinic,Yes,None
+192,74,90,137/79,36.4,140,9417,Clinic,No,Chest pain
+797,92,90,124/76,36.2,126,4423,Home,Yes,Fatigue
+845,69,98,136/79,36.9,104,6487,Clinic,Yes,None
+666,64,98,137/71,36.0,89,6546,Clinic,Yes,Chest pain
+364,82,97,130/71,37.7,90,5419,Clinic,Yes,Chest pain
+441,106,96,127/80,36.5,114,1575,Clinic,Yes,Dizziness
+587,87,100,124/70,37.3,138,6885,Hospital,Yes,None
+975,120,97,127/76,38.2,120,765,Clinic,No,Fatigue
+489,75,91,134/74,36.6,165,216,Clinic,No,Dizziness
+793,69,93,117/87,37.2,161,6554,Hospital,No,None
+497,102,92,127/87,37.8,141,5948,Clinic,Yes,Fatigue
+381,102,98,115/80,37.3,138,4661,Home,Yes,None
+204,96,92,120/81,36.5,123,3887,Home,No,Dizziness
+218,62,97,133/70,36.4,113,6069,Home,No,Dizziness
+472,62,99,115/74,38.3,127,7741,Home,Yes,Fatigue
+494,97,96,111/70,37.6,156,2783,Clinic,Yes,Fatigue
+480,85,90,134/74,36.2,122,9837,Hospital,Yes,Fatigue
+715,84,91,112/71,37.0,174,6262,Hospital,No,Chest pain
+934,82,97,125/89,38.3,142,2017,Clinic,Yes,None
+842,109,94,117/72,36.8,80,9914,Hospital,No,Dizziness
+376,101,90,133/75,37.2,127,7242,Hospital,Yes,Chest pain
+618,80,96,111/76,37.7,154,5288,Clinic,Yes,Fatigue
+536,72,93,135/88,38.2,141,1938,Hospital,Yes,Fatigue
+474,76,96,135/88,38.1,105,4098,Hospital,No,None
+706,68,96,133/71,38.5,86,1299,Home,Yes,Dizziness
+932,112,95,137/80,37.7,146,8161,Hospital,No,Chest pain
+890,72,92,125/79,38.0,99,1276,Hospital,Yes,Dizziness
+295,71,99,126/82,36.3,89,2842,Clinic,No,Fatigue
+208,87,99,120/73,36.8,89,3895,Clinic,No,Fatigue
+856,110,96,122/79,38.3,91,1976,Home,No,Fatigue
+875,80,100,118/82,38.1,187,4493,Clinic,No,Chest pain
+630,79,96,134/73,37.9,124,1314,Clinic,No,Chest pain
+796,80,92,125/90,36.2,150,7343,Home,No,None
+430,104,100,121/88,37.4,127,4228,Clinic,No,Dizziness
+153,97,95,128/90,36.8,172,8661,Clinic,No,Fatigue
+218,62,96,122/89,37.2,107,4710,Hospital,No,Chest pain
+844,118,96,130/81,37.0,106,5528,Hospital,Yes,Dizziness
+486,60,99,129/84,36.7,169,9822,Home,No,Fatigue
+886,84,97,124/90,36.4,91,8117,Clinic,Yes,Dizziness
+535,108,92,122/77,37.5,82,9793,Home,No,Fatigue
+401,115,92,112/76,36.2,168,7655,Home,Yes,Dizziness
+743,81,99,120/90,38.2,110,2450,Home,No,Fatigue
+487,74,100,115/77,37.0,126,6226,Hospital,No,Fatigue
+556,64,96,139/81,38.4,124,7173,Hospital,Yes,None
+461,93,94,115/80,36.5,104,107,Hospital,No,Chest pain
+787,89,95,130/81,36.4,189,8643,Hospital,Yes,Chest pain
+896,90,95,128/86,38.2,191,6150,Clinic,No,None
+125,68,93,130/82,37.1,128,420,Hospital,Yes,Fatigue
+585,115,100,135/75,36.8,116,6075,Clinic,Yes,Fatigue
+300,88,98,128/84,36.5,93,7612,Home,Yes,None
+737,64,90,129/90,36.0,115,9467,Home,No,Dizziness
+312,63,94,111/79,37.6,160,6660,Hospital,Yes,Fatigue
+439,109,100,123/86,37.1,93,7896,Home,No,Dizziness
+984,64,95,120/72,37.0,176,9181,Clinic,No,Chest pain
+976,68,92,137/77,38.2,97,6907,Clinic,Yes,Chest pain
+695,74,90,114/70,37.3,191,2467,Home,No,Fatigue
+275,120,91,110/77,37.6,176,8646,Clinic,Yes,Dizziness
+597,106,100,138/71,38.3,133,4466,Home,Yes,Dizziness
+580,117,91,121/71,37.4,119,6022,Clinic,Yes,None
+891,75,92,131/77,38.2,174,405,Home,No,Chest pain
+717,67,98,111/72,37.1,134,9286,Clinic,No,None
+527,120,90,126/72,36.5,104,9321,Home,Yes,None
+627,106,93,136/82,36.8,186,5882,Home,Yes,Dizziness
+818,101,91,121/90,38.3,148,4915,Hospital,No,Dizziness
+932,119,97,133/75,36.3,130,8612,Hospital,No,Chest pain
+377,103,96,122/90,36.3,161,7165,Hospital,Yes,None
+942,83,90,135/90,36.5,103,4647,Clinic,No,Dizziness
+495,105,91,135/76,38.1,128,235,Home,No,Chest pain
+540,103,100,125/85,37.7,103,7775,Hospital,Yes,None
+891,94,93,136/75,36.5,171,8399,Home,Yes,None
+469,109,95,125/90,36.9,81,1283,Clinic,Yes,Fatigue
+597,69,98,129/89,37.6,82,8999,Hospital,No,Fatigue
+464,62,99,119/85,36.6,82,2214,Clinic,No,Dizziness
+691,62,93,126/70,36.8,123,3055,Home,Yes,Chest pain
+165,90,90,117/89,37.8,139,6086,Home,Yes,Chest pain
+588,76,100,132/70,36.1,190,9592,Hospital,No,Chest pain
+301,60,99,124/88,38.1,200,5499,Hospital,No,None
+349,83,100,110/90,36.1,137,2326,Hospital,Yes,Dizziness
+775,61,94,140/85,37.6,102,1031,Hospital,Yes,Fatigue
+202,102,92,138/86,36.3,108,3853,Clinic,No,Chest pain
+835,77,98,130/73,36.4,174,1549,Hospital,No,None
+490,94,98,118/70,36.1,178,8181,Clinic,Yes,None
+185,113,92,117/82,37.0,125,6421,Clinic,Yes,Chest pain
+386,116,98,131/81,37.1,128,6527,Hospital,No,None
+652,67,92,112/76,38.0,164,2811,Clinic,Yes,Chest pain
+636,68,90,127/90,38.5,100,4348,Clinic,Yes,Fatigue
+850,67,97,110/80,37.2,155,3646,Clinic,Yes,Dizziness
+537,108,90,110/81,37.1,192,4039,Hospital,Yes,None
+138,70,91,131/87,36.8,139,3814,Home,No,Chest pain
+672,117,100,129/79,38.4,156,4476,Home,Yes,Dizziness
+817,118,93,126/74,37.4,156,8469,Clinic,No,Dizziness
+342,116,90,114/78,38.4,92,453,Clinic,Yes,Dizziness
+877,71,93,126/77,38.3,181,7608,Hospital,Yes,Fatigue
+737,61,95,128/77,38.0,110,5811,Clinic,Yes,Fatigue
+571,74,94,126/73,38.3,96,7560,Home,Yes,None
+847,82,93,133/80,36.1,193,9000,Home,No,Dizziness
+415,117,100,125/73,36.3,113,6162,Hospital,Yes,Fatigue
+307,92,100,111/87,36.6,150,75,Hospital,Yes,None
+612,80,99,117/77,37.5,96,8235,Clinic,No,Fatigue
+327,88,91,132/74,36.3,108,82,Hospital,Yes,None
+956,107,96,130/87,36.5,190,9027,Clinic,No,Dizziness
+231,103,100,125/74,38.4,97,5342,Clinic,Yes,Dizziness
+974,61,97,130/74,37.1,152,9061,Hospital,No,Fatigue
+782,63,94,110/72,36.3,143,1410,Clinic,No,Dizziness
+487,95,100,131/81,36.4,102,5207,Clinic,No,Chest pain
+154,70,98,129/85,36.5,193,3135,Clinic,Yes,Fatigue
+182,102,95,136/79,37.0,148,1402,Hospital,No,None
+511,60,96,138/89,38.0,151,8605,Clinic,No,Dizziness
+428,109,100,136/90,37.5,113,8830,Clinic,Yes,Dizziness
+869,118,96,110/72,36.2,94,1476,Hospital,Yes,None
+322,95,98,123/74,37.7,80,9892,Home,Yes,None
+484,110,97,112/84,37.8,83,1816,Hospital,No,Fatigue
+918,114,94,131/88,36.8,82,9890,Clinic,No,Dizziness
+189,108,94,117/78,38.4,128,4853,Home,Yes,Dizziness
+425,79,92,112/89,37.4,181,9527,Clinic,Yes,Fatigue
+123,87,93,120/86,37.2,109,7491,Home,No,Dizziness
+185,67,90,113/90,38.1,103,6421,Clinic,No,Chest pain
+631,98,95,125/78,38.2,102,7548,Clinic,No,Dizziness
+339,111,97,136/87,36.0,161,7942,Clinic,Yes,Dizziness
+831,90,96,121/73,36.1,199,4864,Clinic,No,Chest pain
+580,61,96,137/85,36.1,108,6889,Home,No,None
+162,109,94,128/73,37.4,98,899,Hospital,Yes,Dizziness
+569,78,91,118/84,37.7,91,4738,Hospital,Yes,None
+425,64,99,125/85,37.5,191,2318,Clinic,Yes,Dizziness
+804,66,96,115/87,36.4,174,3382,Hospital,No,None
+467,106,96,135/83,36.3,150,4170,Clinic,Yes,Fatigue
+194,87,94,112/73,38.2,155,3162,Home,No,Fatigue
+187,105,93,136/80,37.9,185,2246,Clinic,No,None
+902,103,98,118/79,37.4,181,4558,Clinic,No,None
+636,93,94,131/81,36.7,168,5916,Home,No,Dizziness
+451,83,97,111/87,38.2,166,5506,Clinic,Yes,Chest pain
+156,96,94,131/80,38.4,99,1929,Hospital,Yes,None
+400,73,94,120/73,37.9,164,1037,Hospital,Yes,Dizziness
+693,98,93,119/89,37.5,146,4992,Clinic,Yes,Dizziness
+213,81,96,116/84,36.6,129,7230,Hospital,Yes,None
+892,120,98,117/79,36.9,182,5482,Home,Yes,None
+884,60,98,124/83,38.2,121,8926,Clinic,No,None
+505,99,92,120/86,36.5,179,9410,Clinic,Yes,Dizziness
+851,111,90,127/72,38.4,197,9988,Home,No,Chest pain
+968,87,91,133/82,38.3,130,3149,Hospital,No,Dizziness
+597,99,95,139/86,36.1,179,6286,Hospital,No,Dizziness
+160,103,92,114/77,36.6,92,1827,Home,No,Fatigue
+985,112,90,137/88,36.5,88,186,Hospital,Yes,Dizziness
+950,65,97,111/89,36.2,83,4285,Home,No,Fatigue
+579,87,99,117/72,37.2,115,829,Home,No,Dizziness
+146,69,93,113/73,37.7,146,2978,Hospital,No,Fatigue
+283,69,96,128/77,37.9,132,3172,Clinic,No,None
+692,117,90,129/76,38.4,115,4840,Clinic,No,Fatigue
+851,94,94,137/75,38.0,175,685,Home,Yes,Chest pain
+920,61,99,140/76,36.7,189,9465,Hospital,Yes,Chest pain
+769,90,92,140/76,36.7,100,7992,Clinic,No,Dizziness
+235,86,99,118/73,36.4,175,8745,Hospital,Yes,Dizziness
+227,92,92,138/76,36.2,198,4224,Clinic,No,None
+476,100,90,110/90,36.7,152,2621,Clinic,No,Dizziness
+711,100,96,118/71,37.3,90,144,Home,No,Dizziness
+732,94,95,112/73,38.4,161,1399,Clinic,No,Fatigue
+276,110,95,135/89,36.7,154,2604,Clinic,Yes,None
+803,91,96,123/88,38.1,137,6747,Home,No,Chest pain
+562,83,99,124/79,37.8,130,1241,Hospital,Yes,None
+819,89,95,140/84,37.7,167,94,Hospital,Yes,None
+108,113,96,116/77,36.3,144,2150,Clinic,No,Chest pain
+635,114,99,112/76,36.7,190,6662,Hospital,Yes,Dizziness
+370,79,93,139/70,38.2,170,136,Home,No,None
+985,90,92,132/74,37.7,114,161,Clinic,No,Chest pain
+378,99,91,137/84,36.8,147,8965,Hospital,No,None
+646,93,98,114/73,38.2,105,336,Hospital,No,None
+709,84,92,125/73,36.5,176,5364,Home,No,Chest pain
+411,78,100,135/80,38.1,126,598,Clinic,Yes,Chest pain
+742,64,94,125/72,36.6,156,4542,Hospital,Yes,Dizziness
+900,71,96,138/90,37.6,171,4505,Clinic,No,None
+367,106,93,134/70,37.9,85,7466,Hospital,Yes,Chest pain
+280,83,92,135/88,37.2,104,8093,Hospital,Yes,Chest pain
+247,61,95,117/87,37.1,172,5254,Home,No,None
+131,96,100,130/72,36.5,129,6425,Clinic,Yes,None
+577,74,90,140/88,37.7,193,576,Home,Yes,Fatigue
+324,103,97,134/77,36.8,140,5671,Clinic,Yes,None
+929,103,99,114/88,37.4,167,6455,Hospital,No,Dizziness
+495,69,93,135/71,36.7,191,800,Hospital,Yes,Dizziness
+451,108,95,111/74,36.3,115,9164,Hospital,No,Dizziness
+119,99,91,118/78,36.3,143,6811,Home,Yes,Fatigue
+262,111,99,127/83,36.6,125,2879,Clinic,No,Fatigue
+747,113,100,111/78,36.9,113,6268,Hospital,No,None
+548,115,92,126/82,37.2,97,3655,Hospital,No,Dizziness
+147,69,94,136/77,36.6,138,8205,Hospital,Yes,Chest pain
+691,68,99,122/74,38.3,191,8884,Hospital,No,Dizziness
+629,92,98,112/86,37.1,189,7531,Clinic,Yes,None
+134,65,92,136/73,36.5,123,2785,Hospital,Yes,Dizziness
+409,69,90,124/86,36.4,160,4461,Hospital,Yes,None
+706,92,91,137/80,36.8,160,1389,Home,No,Chest pain
+708,62,93,126/86,37.9,138,4209,Hospital,No,Dizziness
+711,93,91,119/80,36.3,198,145,Clinic,No,Dizziness
+539,84,92,114/86,36.1,177,2747,Hospital,Yes,Dizziness
+619,70,100,131/84,38.2,151,7275,Home,Yes,Dizziness
+479,116,92,112/79,37.6,115,5165,Home,No,None
+495,61,99,127/82,38.1,107,4854,Home,Yes,Fatigue
+134,67,99,117/80,37.5,107,1010,Clinic,Yes,Chest pain
+211,85,91,131/90,36.8,102,7000,Home,Yes,Dizziness
+910,77,94,117/73,38.3,186,5310,Hospital,Yes,Chest pain
+672,94,99,127/77,37.4,197,8097,Hospital,No,Fatigue
+855,91,95,115/86,37.8,145,6597,Hospital,No,Dizziness
+311,87,98,111/72,37.3,195,3885,Clinic,Yes,Fatigue
+475,68,93,117/90,37.3,171,6907,Home,Yes,Chest pain
+202,74,92,122/71,37.9,89,9425,Hospital,Yes,Fatigue
+307,69,91,133/70,37.5,82,4118,Clinic,Yes,Dizziness
+825,73,90,114/89,37.9,91,9463,Home,Yes,Fatigue
+284,117,98,111/73,38.0,188,3807,Home,No,Dizziness
+539,100,91,138/86,37.2,133,8064,Home,Yes,Chest pain
+879,91,96,116/81,37.7,179,5844,Home,No,Chest pain
+661,103,90,127/71,37.5,153,8713,Hospital,Yes,Fatigue
+243,83,98,132/74,37.5,136,5154,Clinic,Yes,Fatigue
+526,100,91,121/89,38.1,89,8960,Hospital,Yes,None
+680,68,97,139/70,37.4,178,2473,Clinic,No,Chest pain
+404,67,90,122/72,37.9,92,6127,Home,No,None
+694,65,95,112/76,37.7,154,3505,Home,No,None
+366,104,90,139/76,38.3,156,5861,Hospital,Yes,None
+928,74,99,116/73,36.3,144,8297,Home,No,None
+678,114,91,125/74,37.8,100,8074,Clinic,No,Chest pain
+523,104,100,129/70,38.1,117,5502,Hospital,Yes,Chest pain
+207,103,95,129/89,38.2,147,4905,Hospital,Yes,Chest pain
+126,92,98,115/83,37.7,174,5168,Hospital,Yes,Dizziness
+855,61,98,135/80,37.0,176,4323,Clinic,No,Dizziness
+623,64,92,122/86,37.1,152,6004,Hospital,No,Dizziness
+101,63,92,137/86,38.0,175,8053,Home,No,Fatigue
+588,65,99,111/73,37.0,144,9478,Clinic,No,Dizziness
+252,69,90,115/88,37.0,172,3255,Clinic,No,Fatigue
+830,99,100,125/76,36.7,181,866,Clinic,Yes,Chest pain
+410,78,100,133/77,37.9,86,4724,Clinic,No,Dizziness
+540,104,92,117/86,37.2,122,145,Home,No,Dizziness
+944,94,92,139/72,37.1,139,7580,Clinic,No,Fatigue
+463,104,99,132/83,37.7,168,1617,Clinic,Yes,Fatigue
+911,120,99,111/70,38.0,158,7123,Clinic,No,Fatigue
+268,101,99,117/81,36.5,93,1611,Hospital,No,None
+515,73,90,116/77,37.2,125,502,Clinic,Yes,Chest pain
+474,107,96,111/81,36.9,122,3959,Hospital,No,Fatigue
+954,108,99,139/75,36.3,112,8061,Home,Yes,None
+412,118,100,131/87,37.3,107,3953,Home,Yes,Fatigue
+334,120,100,118/70,36.9,92,6852,Clinic,Yes,Fatigue
+481,96,100,130/85,36.5,172,3072,Clinic,Yes,Dizziness
+285,93,98,121/73,36.3,184,475,Hospital,No,Fatigue
+324,68,96,128/76,38.4,180,2468,Home,Yes,None
+461,113,90,121/85,37.1,109,7874,Home,Yes,Chest pain
+280,78,90,128/70,38.5,91,5944,Hospital,Yes,Fatigue
+311,97,91,131/70,38.2,107,2008,Hospital,No,Fatigue
+443,68,91,133/88,38.4,127,4424,Home,Yes,Dizziness
+785,68,97,111/83,37.8,90,9504,Home,No,Chest pain
+462,114,95,113/80,38.4,126,5486,Home,No,Chest pain
+893,76,98,121/90,37.3,138,7737,Home,No,None
+134,106,91,136/82,36.3,172,9083,Home,Yes,Chest pain
+904,88,91,124/75,37.1,146,1915,Home,Yes,Chest pain
+749,102,95,135/78,36.8,168,6729,Home,No,Chest pain
+541,87,94,123/86,37.4,172,1402,Hospital,No,Dizziness
+629,88,98,132/78,37.0,133,2288,Hospital,No,Fatigue
+478,93,99,134/83,36.2,174,4013,Home,No,None
+621,106,97,134/82,37.4,92,914,Clinic,Yes,Dizziness
+508,76,96,136/88,36.0,194,5921,Clinic,Yes,Fatigue
+928,77,92,119/76,36.4,193,7339,Hospital,No,None
+932,94,92,125/76,37.6,188,1302,Clinic,No,Dizziness
+882,97,97,118/88,36.9,164,2605,Home,No,None
+724,71,91,127/87,37.2,104,2825,Hospital,No,None
+767,111,92,119/77,37.7,140,3491,Clinic,No,None
+717,74,96,118/90,37.2,176,6232,Home,No,Chest pain
+410,75,92,117/78,37.7,167,7735,Home,No,Chest pain
+770,87,100,114/71,37.1,126,6989,Clinic,Yes,Fatigue
+604,97,100,124/86,38.0,92,8257,Home,No,Chest pain
+978,95,92,122/89,38.4,89,7409,Clinic,Yes,Chest pain
+836,94,100,111/83,38.4,121,5033,Home,Yes,None
+540,81,98,133/75,36.6,93,9035,Clinic,Yes,Fatigue
+826,75,94,111/89,36.5,104,6,Home,Yes,Dizziness
+398,111,94,138/80,36.6,199,1844,Hospital,Yes,Chest pain
+827,118,90,117/88,38.3,178,9439,Home,No,Chest pain
+975,67,95,117/74,38.0,149,8913,Clinic,No,Chest pain
+841,85,91,124/84,38.5,148,3987,Home,No,Fatigue
+873,87,93,112/71,36.6,194,6790,Home,No,None
+106,88,99,131/75,36.9,147,5952,Hospital,No,None
+216,67,100,121/82,36.0,102,378,Home,Yes,Chest pain
+480,83,99,140/72,36.5,179,2617,Clinic,No,Chest pain
+958,97,96,140/87,36.3,100,7594,Home,No,None
+862,98,92,128/84,38.5,112,9576,Home,Yes,Dizziness
+136,63,91,130/71,36.3,97,9321,Clinic,No,None
+246,79,99,140/79,36.7,164,1587,Home,No,Chest pain
+381,92,95,119/75,38.2,197,4902,Hospital,Yes,None
+975,76,97,116/84,37.7,159,7232,Hospital,Yes,Chest pain
+186,109,91,131/88,37.6,80,354,Hospital,Yes,None
+816,61,96,115/89,38.1,169,7038,Home,No,Dizziness
+178,99,96,126/77,37.9,179,2850,Home,No,Chest pain
+291,76,95,139/82,36.5,140,3405,Home,Yes,Chest pain
+538,88,100,140/76,37.1,137,9772,Home,No,Dizziness
+840,93,97,131/87,36.8,140,8244,Clinic,Yes,Dizziness
+690,60,96,113/89,36.6,108,9884,Hospital,Yes,Fatigue
+283,64,98,135/77,37.0,121,8879,Hospital,Yes,Fatigue
+415,109,92,129/82,36.0,154,1164,Hospital,No,Chest pain
+424,99,100,119/82,36.5,134,1905,Home,Yes,Fatigue
+161,60,94,122/88,36.3,83,3548,Hospital,No,None
+639,117,91,120/81,36.1,118,2771,Clinic,No,None
+455,107,98,131/75,36.4,141,9667,Home,Yes,Dizziness
+519,80,97,135/83,37.2,160,4732,Hospital,Yes,None
+307,99,90,111/85,37.8,181,8329,Clinic,No,Chest pain
+957,62,100,135/76,38.1,145,3495,Clinic,Yes,Chest pain
+751,119,91,119/86,37.6,162,5046,Clinic,Yes,None
+209,78,96,133/77,37.2,82,9141,Home,Yes,Fatigue
+995,98,93,140/75,36.4,182,5475,Home,No,Dizziness
+352,88,91,121/73,36.3,118,6998,Hospital,No,Dizziness
+376,78,96,127/75,37.0,84,1877,Home,No,None
+860,83,91,120/87,38.1,167,1599,Clinic,Yes,Dizziness
+895,99,100,137/72,37.8,165,7088,Clinic,Yes,Dizziness
+387,86,90,124/70,38.1,196,8833,Home,Yes,None
+215,78,99,114/89,37.4,135,7940,Clinic,No,Chest pain
+458,113,90,121/87,36.7,152,956,Hospital,Yes,Fatigue
+421,81,100,129/72,38.3,167,2096,Clinic,No,Fatigue
+889,73,97,115/89,36.9,107,2481,Clinic,No,Chest pain
+536,114,98,123/87,36.5,104,9618,Hospital,No,Chest pain
+252,104,90,128/87,36.4,180,5398,Home,No,Dizziness
+924,93,95,123/77,36.0,105,8711,Home,Yes,Fatigue
+842,108,90,123/87,37.6,199,5187,Clinic,No,None
+999,97,92,115/70,36.3,110,1383,Home,Yes,None
+976,73,92,119/76,37.5,91,5418,Home,Yes,Fatigue
+292,79,95,110/89,37.0,99,441,Home,Yes,Fatigue
+521,116,90,110/78,36.8,161,8919,Home,Yes,None
+585,96,92,131/80,36.8,85,3498,Home,Yes,Chest pain
+590,77,94,130/88,36.0,194,8073,Hospital,No,None
+414,72,91,117/77,37.8,150,7364,Hospital,Yes,Chest pain
+462,74,92,138/77,37.1,108,108,Hospital,Yes,None
+310,100,99,133/77,36.7,199,3846,Hospital,Yes,Dizziness
+893,101,90,120/85,36.6,139,1625,Clinic,No,Chest pain
+947,94,91,125/87,38.4,147,5537,Clinic,No,Fatigue
+348,67,99,121/77,38.0,186,7644,Home,No,Fatigue
+115,93,93,121/75,37.7,95,4696,Home,Yes,Fatigue
+965,81,97,118/74,37.1,190,3033,Clinic,No,Fatigue
+321,117,94,112/84,37.1,116,9757,Clinic,Yes,Dizziness
+339,98,94,134/88,36.7,127,1594,Home,Yes,Chest pain
+967,65,94,113/90,37.1,128,1598,Hospital,No,Dizziness
+938,91,95,138/72,37.3,105,7058,Home,Yes,Fatigue
+278,67,97,110/75,36.9,158,6745,Clinic,No,Dizziness
+825,73,98,117/72,36.3,181,5549,Home,Yes,Chest pain
+460,66,96,122/90,37.7,194,8851,Clinic,No,Dizziness
+426,118,99,115/71,37.9,81,1549,Hospital,Yes,Fatigue
+635,78,96,134/74,38.2,195,2670,Clinic,Yes,None
+151,71,93,135/77,36.9,113,8122,Home,Yes,None
+856,87,93,116/77,36.3,106,2567,Clinic,Yes,None
+820,91,95,136/83,36.7,195,6624,Home,Yes,Dizziness
+917,89,92,132/80,38.4,105,1253,Hospital,No,Fatigue
+507,104,94,137/83,36.1,91,2156,Clinic,No,None
+275,119,98,132/71,37.8,138,3260,Clinic,No,None
+663,64,91,116/80,36.2,110,1175,Clinic,No,None
+585,108,95,128/71,36.2,88,2683,Home,No,Chest pain
+909,109,92,123/90,36.6,112,648,Home,Yes,Dizziness
+207,66,90,135/90,37.9,148,9284,Hospital,No,None
+444,62,98,110/89,36.9,129,4185,Clinic,Yes,Chest pain
+730,112,96,121/70,36.0,142,43,Home,No,Fatigue
+464,60,94,117/88,37.5,129,5395,Hospital,Yes,Chest pain
+910,78,100,138/74,36.4,178,2392,Clinic,Yes,Dizziness
+128,71,91,120/78,36.3,166,861,Hospital,Yes,None
+280,79,93,112/83,37.1,153,8304,Clinic,No,Dizziness
+761,81,96,120/87,38.3,168,6901,Clinic,Yes,Fatigue
+327,65,95,140/89,38.2,185,2851,Hospital,Yes,Chest pain
+187,80,90,129/78,37.6,133,2642,Home,No,Chest pain
+815,69,92,125/85,38.1,187,9998,Clinic,No,Dizziness
+746,72,96,128/76,37.0,146,3831,Home,Yes,None
+151,116,95,128/76,37.6,138,4177,Home,No,Dizziness
+857,98,94,115/86,38.2,139,2172,Home,Yes,Fatigue
+486,117,90,126/80,36.9,183,1542,Clinic,No,Dizziness
+107,62,95,138/86,38.0,195,4432,Hospital,Yes,Fatigue
+235,67,96,116/82,36.1,147,6081,Home,No,None
+703,61,91,134/78,36.5,103,4685,Hospital,No,Chest pain
+777,117,91,125/70,37.3,109,2066,Home,No,None
+174,89,100,128/88,38.3,130,959,Hospital,Yes,Chest pain
+925,82,95,138/76,36.9,145,910,Clinic,Yes,None
+878,81,99,135/89,37.1,195,9539,Hospital,No,None
+256,64,96,119/72,38.2,112,9257,Clinic,No,None
+665,92,96,116/90,37.6,80,781,Clinic,Yes,Fatigue
+750,98,99,125/83,37.2,165,8520,Clinic,No,Chest pain
+431,77,91,124/90,36.2,120,7499,Hospital,No,None
+480,82,91,130/77,36.2,153,5513,Home,Yes,Dizziness
+589,64,92,122/77,36.0,179,6638,Hospital,No,None
+144,119,98,134/86,38.2,194,4424,Home,No,Dizziness
+642,86,98,112/89,36.5,192,4994,Hospital,Yes,Fatigue
+396,82,94,111/84,38.0,106,8863,Hospital,Yes,None
+880,94,92,137/70,37.0,87,5207,Hospital,No,Chest pain
+715,102,96,132/81,36.6,155,2217,Hospital,No,Chest pain
+223,64,94,122/86,38.0,182,4172,Home,Yes,Fatigue
+200,93,98,120/90,37.1,199,4445,Clinic,No,Dizziness
+105,84,99,119/84,36.9,149,6780,Clinic,No,Dizziness
+210,103,97,112/78,38.0,126,6879,Home,Yes,Dizziness
+276,104,94,116/74,37.9,138,1770,Home,No,None
+862,89,96,134/90,37.0,143,8476,Clinic,No,Chest pain
+947,69,99,124/84,37.9,103,2708,Clinic,Yes,None
+889,92,90,140/77,38.4,175,3897,Hospital,No,Dizziness
+995,91,90,116/84,36.3,83,6467,Hospital,Yes,Dizziness
+670,115,92,110/83,36.2,155,6484,Home,Yes,Dizziness
+768,101,90,114/82,36.3,95,2955,Clinic,Yes,None
+771,118,97,115/73,37.0,126,924,Clinic,Yes,Fatigue
+595,117,90,129/90,38.5,191,8425,Hospital,Yes,Fatigue
+234,115,97,123/79,37.0,133,1925,Home,No,Chest pain
+812,96,90,125/72,37.0,96,8509,Clinic,No,None
+123,106,91,122/82,36.1,102,657,Home,Yes,None
+887,117,94,137/74,38.0,137,6659,Home,No,Dizziness
+432,69,92,110/81,38.3,95,311,Hospital,Yes,None
+966,90,100,111/72,38.3,91,3031,Hospital,Yes,Dizziness
+133,116,93,133/85,36.8,156,5785,Hospital,Yes,Chest pain
+725,106,91,118/85,37.1,180,5692,Hospital,Yes,Dizziness
+303,78,99,131/76,36.9,173,834,Home,Yes,Dizziness
+939,84,98,139/75,37.9,100,4102,Hospital,Yes,Dizziness
+376,64,96,110/89,38.5,151,350,Clinic,Yes,None
+418,71,96,132/83,36.3,112,9376,Clinic,Yes,Chest pain
+937,106,99,112/83,36.0,125,9652,Hospital,No,Dizziness
+486,98,91,126/84,36.3,130,7261,Clinic,No,Chest pain
+183,62,97,116/77,36.0,125,9516,Hospital,No,None
+766,86,99,123/85,37.1,101,7301,Home,Yes,Dizziness
+377,115,92,134/79,36.1,88,9276,Hospital,Yes,Chest pain
+184,91,93,129/74,37.8,86,7816,Clinic,Yes,Chest pain
+528,66,92,136/80,37.0,143,2843,Clinic,No,Dizziness
+555,80,96,117/84,37.3,115,7596,Home,No,None
+995,90,100,131/86,36.1,195,2923,Hospital,Yes,Dizziness
+401,88,91,137/87,37.4,173,4010,Hospital,Yes,Dizziness
+770,92,92,123/84,38.1,90,2882,Home,Yes,Chest pain
+484,70,98,131/83,36.3,145,5237,Clinic,No,Fatigue
+706,74,100,128/77,37.4,151,7095,Home,Yes,None
+962,94,92,131/83,37.9,197,5304,Hospital,Yes,Dizziness
+472,72,98,135/82,37.8,170,4440,Hospital,Yes,Fatigue
+281,90,92,115/80,36.6,161,7515,Clinic,No,Dizziness
+550,73,95,119/85,36.4,109,6053,Clinic,No,Dizziness
+351,119,97,112/86,36.5,90,2958,Home,No,Chest pain
+698,116,94,115/71,38.4,175,6444,Clinic,Yes,Dizziness
+646,118,100,136/77,37.9,196,4129,Clinic,No,Fatigue
+644,62,98,126/85,36.6,154,9532,Home,No,None
+307,92,93,115/79,36.6,152,4790,Clinic,Yes,Dizziness
+629,75,96,129/89,36.6,122,1250,Home,No,Fatigue
+371,70,90,133/75,36.5,195,1383,Clinic,No,Chest pain
+505,60,100,127/76,37.4,107,812,Hospital,Yes,Chest pain
+434,118,97,130/87,37.5,94,791,Home,Yes,Chest pain
+788,83,92,123/73,37.5,128,5526,Clinic,No,Dizziness
+310,99,98,122/71,38.3,95,9090,Hospital,No,None
+874,70,95,139/90,36.0,150,3708,Hospital,Yes,None
+996,64,98,110/87,36.9,164,3105,Home,No,Chest pain
+596,101,95,124/90,36.9,89,2856,Clinic,Yes,Fatigue
+842,117,97,124/75,37.7,168,854,Clinic,No,Fatigue
+794,116,93,130/83,37.8,189,354,Home,Yes,None
+245,66,94,125/75,36.7,146,1246,Clinic,Yes,Chest pain
+993,94,92,131/73,37.3,96,9953,Home,Yes,Dizziness
+711,63,91,120/77,38.0,87,6951,Home,No,Dizziness
+439,91,99,140/75,38.2,197,8568,Home,No,None
+539,111,94,111/73,36.1,120,5299,Home,No,Fatigue
+770,72,93,114/71,36.7,128,3108,Home,Yes,Dizziness
+914,82,94,129/78,38.1,153,3956,Clinic,Yes,Chest pain
+920,116,95,132/71,36.5,113,8375,Home,No,Dizziness
+304,117,99,123/75,37.3,179,9496,Clinic,Yes,None
+625,119,98,113/77,36.0,141,6319,Hospital,Yes,Dizziness
+287,106,96,114/86,38.1,139,7259,Clinic,Yes,Chest pain
+664,106,91,113/74,37.1,168,2401,Hospital,No,None
+182,78,100,116/80,36.2,100,4496,Home,No,Chest pain
+831,70,95,129/79,36.8,123,3050,Hospital,Yes,Fatigue
+968,100,95,110/84,36.0,170,8637,Clinic,Yes,Dizziness
+649,88,90,113/85,37.3,168,85,Home,No,Fatigue
+879,70,99,123/76,36.4,155,7859,Hospital,No,Fatigue
+166,95,99,132/79,37.7,92,6215,Home,No,Dizziness
+396,95,92,140/79,37.1,126,83,Clinic,Yes,Fatigue
+175,112,92,137/76,38.2,198,4307,Home,Yes,Dizziness
+347,113,100,128/73,38.0,158,8451,Clinic,Yes,None
+522,89,92,117/89,36.9,195,6491,Hospital,Yes,Chest pain
+334,84,92,131/87,37.3,157,655,Hospital,Yes,Chest pain
+371,112,95,128/75,38.2,181,866,Hospital,Yes,Fatigue
+883,60,94,121/74,36.4,177,7306,Home,Yes,Dizziness
+829,112,90,120/72,36.3,184,3311,Clinic,Yes,Chest pain
+704,76,100,138/73,37.3,132,8407,Clinic,Yes,Fatigue
+662,92,92,133/83,38.0,100,2264,Clinic,No,Chest pain
+523,108,90,123/70,36.2,101,8106,Clinic,Yes,Chest pain
+561,106,92,139/86,37.9,126,6417,Hospital,Yes,None
+526,78,98,129/90,36.7,152,2187,Home,Yes,Dizziness
+148,72,95,110/84,37.8,121,8605,Clinic,No,None
+866,100,90,117/87,37.1,119,2054,Hospital,No,None
+702,98,92,136/78,37.7,154,5628,Clinic,Yes,None
+108,114,91,111/83,36.4,141,3061,Hospital,Yes,Dizziness
+361,101,98,137/82,36.6,163,7368,Clinic,No,Fatigue
+475,72,98,110/72,36.9,130,2986,Clinic,No,Dizziness
+105,65,96,123/72,37.9,125,4559,Clinic,Yes,None
+189,106,100,126/80,36.5,163,1797,Hospital,No,Fatigue
+607,106,95,138/85,36.4,85,3331,Clinic,Yes,None
+424,108,90,116/78,37.3,152,5814,Home,Yes,Fatigue
+425,74,95,124/86,37.4,189,5075,Clinic,No,Dizziness
+881,98,95,119/82,37.7,137,8877,Hospital,No,None
+489,70,93,117/81,38.2,167,4159,Home,No,Chest pain
+226,91,96,132/85,36.0,103,6012,Clinic,Yes,Dizziness
+142,110,94,134/86,37.5,143,7081,Home,Yes,Dizziness
+285,61,99,137/89,36.1,167,9413,Home,Yes,Chest pain
+567,115,90,114/84,37.7,189,8653,Hospital,No,Chest pain
+680,105,92,140/85,36.2,146,6565,Home,No,Dizziness
+642,100,96,137/82,38.4,171,6086,Clinic,Yes,None
+745,107,93,111/74,38.1,156,4209,Clinic,No,Chest pain
+992,77,90,121/88,37.8,155,1301,Home,No,Dizziness
+826,105,98,139/72,37.1,197,6584,Home,Yes,Chest pain
+221,64,100,136/80,36.2,134,2283,Hospital,Yes,Fatigue
+740,69,100,113/75,37.2,124,599,Home,No,None
+279,74,91,125/76,36.3,162,1249,Clinic,Yes,None
+976,87,96,111/88,37.2,92,7156,Hospital,Yes,None
+727,103,91,125/78,38.3,96,6215,Home,Yes,Fatigue
+949,63,94,130/86,37.7,110,9753,Clinic,Yes,Fatigue
+580,97,92,110/78,37.8,140,5958,Home,No,None
+958,107,90,115/86,37.9,163,9625,Home,Yes,Fatigue
+109,79,98,118/74,38.4,190,9180,Clinic,Yes,Fatigue
+725,115,99,129/74,36.9,148,6368,Home,Yes,Fatigue
+655,74,92,134/70,37.7,88,1405,Clinic,No,Fatigue
+130,75,93,127/74,36.9,183,9018,Hospital,Yes,Fatigue
+555,117,100,127/87,37.7,121,2784,Hospital,Yes,Chest pain
+309,84,90,118/74,38.0,124,6223,Home,Yes,Dizziness
+107,118,90,118/70,37.7,189,7893,Hospital,Yes,Dizziness
+537,99,93,124/70,38.3,82,1858,Home,Yes,Dizziness
+237,88,92,125/71,36.0,119,4815,Hospital,No,None
+510,110,99,116/80,36.7,90,9932,Hospital,Yes,Dizziness
+609,86,100,134/87,38.1,180,9468,Clinic,No,None
+991,99,90,140/76,37.6,102,5964,Clinic,No,Dizziness
+353,65,91,115/75,37.8,123,1358,Clinic,No,Dizziness
+984,113,90,113/80,37.1,84,5830,Home,No,Dizziness
+427,73,91,110/74,36.6,191,7067,Hospital,No,None
+711,77,95,132/88,37.0,121,5937,Hospital,No,Fatigue
+151,83,90,138/89,36.1,117,4618,Home,No,Dizziness
+200,100,94,127/81,37.3,97,7926,Hospital,Yes,None
+410,112,93,121/90,36.8,174,8043,Home,Yes,Chest pain
+233,105,97,135/90,37.8,84,4679,Home,Yes,Fatigue
+119,86,92,129/77,38.1,180,5872,Hospital,Yes,Fatigue
+280,116,95,137/79,36.3,118,126,Home,No,Dizziness
+196,83,93,117/82,37.1,146,9858,Home,Yes,Dizziness
+909,111,100,138/85,37.4,159,2241,Home,Yes,Chest pain
+276,85,95,136/75,38.4,115,2430,Clinic,No,None
+322,115,100,125/86,36.2,91,1476,Home,Yes,Dizziness
+563,81,97,114/71,38.1,133,7792,Clinic,No,Fatigue
+896,92,94,130/87,38.4,124,2502,Hospital,No,None
+440,77,100,114/90,38.2,158,9948,Home,Yes,Fatigue
+315,69,98,140/86,36.4,156,341,Clinic,Yes,Dizziness
+857,67,98,115/71,38.3,96,3298,Hospital,Yes,Chest pain
+935,67,96,138/85,36.5,157,5714,Hospital,No,None
+642,117,93,123/72,37.2,131,4249,Hospital,Yes,Dizziness
+354,86,96,111/83,37.6,90,3285,Clinic,Yes,Fatigue
+212,92,98,122/90,38.0,187,636,Home,Yes,Dizziness
+953,118,97,136/74,37.3,86,9814,Hospital,Yes,Dizziness
+130,100,91,114/83,36.7,141,7916,Hospital,No,Chest pain
+168,85,90,125/73,38.3,107,5599,Home,No,Dizziness
+838,70,97,129/89,36.3,111,5977,Clinic,No,Chest pain
+720,64,90,124/85,38.4,171,8437,Clinic,Yes,None
+549,113,90,137/85,37.4,141,4713,Home,Yes,Fatigue
+333,86,96,140/83,36.1,92,5627,Hospital,Yes,None
+695,109,100,119/70,37.0,86,1751,Home,Yes,Fatigue
+393,77,100,132/71,37.9,147,9080,Hospital,Yes,None
+626,94,92,126/90,37.3,119,9176,Hospital,Yes,Fatigue
+146,76,100,115/75,38.5,139,7065,Home,Yes,Dizziness
+381,81,98,138/83,37.7,108,3712,Clinic,Yes,None
+624,78,98,122/83,37.1,89,1310,Hospital,Yes,None
+911,77,97,140/80,37.1,152,1835,Clinic,Yes,Fatigue
+786,98,94,128/75,36.4,180,3408,Home,Yes,Chest pain
+651,89,93,112/87,38.0,91,5945,Clinic,Yes,Chest pain
+411,97,91,122/90,37.3,193,9132,Clinic,Yes,None
+728,105,94,111/74,37.1,100,5726,Clinic,No,Dizziness
+736,117,98,135/89,37.9,115,8988,Clinic,Yes,Fatigue
+984,120,95,110/75,37.9,165,2558,Home,Yes,Dizziness
+307,97,98,127/78,37.6,103,4201,Hospital,Yes,Fatigue
+292,61,93,125/75,37.1,193,8531,Clinic,Yes,Chest pain
+655,74,94,120/86,36.8,101,1194,Clinic,No,Dizziness
+303,103,99,139/73,36.7,98,6545,Hospital,Yes,Chest pain
+524,84,97,138/85,36.2,121,577,Home,Yes,Fatigue
+133,95,99,116/88,38.2,183,4071,Hospital,Yes,Fatigue
+149,75,91,131/86,38.2,175,440,Home,Yes,Dizziness
+957,97,95,126/85,38.2,107,1907,Hospital,Yes,Fatigue
+912,117,92,116/72,37.5,168,7445,Clinic,Yes,Dizziness
+203,111,91,114/74,38.3,128,7557,Home,No,Fatigue
+105,77,99,114/76,38.2,128,4387,Hospital,No,Dizziness
+124,105,98,130/83,37.8,114,3213,Home,No,Chest pain
+662,115,96,126/71,36.2,138,4696,Home,No,Chest pain
+942,104,96,126/74,37.4,191,8444,Hospital,No,Fatigue
+282,116,90,138/70,36.3,142,4261,Hospital,Yes,None
+853,104,98,119/74,37.9,169,5767,Home,Yes,Chest pain
+336,97,97,132/86,36.3,116,8702,Hospital,Yes,None
+603,76,100,126/74,36.1,113,222,Home,Yes,Dizziness
+269,84,100,134/76,36.5,119,8306,Clinic,Yes,None
+792,64,96,117/71,38.2,178,7737,Clinic,Yes,None
+309,88,95,134/81,36.1,152,3056,Home,No,Dizziness
+832,110,92,113/87,37.3,174,6782,Clinic,No,None
+894,98,100,125/72,37.2,94,4670,Hospital,No,None
+482,113,90,120/82,36.1,187,6571,Clinic,Yes,Chest pain
+915,117,95,114/86,37.8,109,3083,Hospital,Yes,Dizziness
+823,88,90,118/85,36.7,130,936,Clinic,No,Fatigue
+316,97,93,135/75,36.9,184,9770,Clinic,No,None
+762,69,94,133/81,36.2,150,3447,Clinic,No,Dizziness
+590,60,99,112/84,36.7,200,879,Hospital,Yes,Fatigue
+330,107,95,118/79,38.4,115,9110,Clinic,No,Chest pain
+919,83,94,120/77,37.9,184,7838,Clinic,Yes,Dizziness
+478,118,97,124/76,38.0,146,839,Clinic,Yes,Dizziness
+370,72,92,140/85,37.1,160,6564,Clinic,No,None
+517,85,98,139/73,38.1,178,3910,Clinic,Yes,Chest pain
+249,112,92,124/74,37.8,142,643,Home,No,Dizziness
+646,89,97,123/79,36.1,135,9737,Home,Yes,Fatigue
+681,86,97,130/70,38.1,98,2252,Clinic,No,Dizziness
+958,73,100,140/76,37.7,125,9857,Clinic,Yes,Dizziness
+827,73,99,131/89,36.1,186,7451,Hospital,No,Dizziness
+220,104,92,138/77,37.8,143,1143,Home,Yes,Fatigue
+914,107,93,124/78,37.8,133,7578,Home,No,Dizziness
+958,64,94,137/78,37.2,143,493,Clinic,No,None
+426,80,93,111/82,37.8,196,2112,Home,No,None
+974,106,96,137/78,38.4,174,2652,Home,Yes,Chest pain
+248,65,98,132/70,36.9,151,6296,Home,Yes,Fatigue
+656,107,92,135/76,37.5,131,7198,Clinic,Yes,Chest pain
+304,65,91,132/81,37.3,154,2209,Home,Yes,Dizziness
+891,95,93,136/81,38.0,158,3514,Home,Yes,None
+486,87,100,139/81,36.3,109,4626,Home,Yes,None
+668,69,90,134/73,38.1,87,8387,Hospital,Yes,Dizziness
+500,90,94,123/86,37.8,154,2335,Home,No,None
+838,110,91,119/77,36.5,117,6920,Hospital,Yes,Chest pain
+138,99,94,119/82,38.3,114,7071,Home,Yes,Fatigue
+737,83,94,138/76,38.4,90,7279,Clinic,No,None
+363,69,94,140/84,38.4,90,3324,Home,No,None
+935,108,95,137/83,38.1,146,7465,Hospital,No,Dizziness
+190,87,99,116/75,37.7,93,1592,Hospital,No,Dizziness
+228,85,97,111/73,38.3,148,3359,Clinic,No,Chest pain
+168,105,99,138/76,36.9,172,8734,Clinic,No,Chest pain
+297,86,98,139/80,37.4,86,3877,Clinic,No,None
+370,105,99,134/87,37.9,125,3961,Clinic,Yes,Chest pain
+677,86,93,118/72,38.4,192,3627,Hospital,Yes,Dizziness
+697,68,100,113/84,37.1,109,3590,Clinic,No,Chest pain
+367,64,97,135/74,36.1,113,6184,Hospital,No,None
+663,104,93,122/86,38.5,174,6201,Home,Yes,Dizziness
+277,71,97,137/72,38.1,137,775,Home,Yes,None
+801,67,99,117/88,38.3,109,138,Home,No,Dizziness
+403,92,94,127/80,36.1,114,1065,Clinic,Yes,Dizziness
+901,97,97,130/78,37.7,195,9161,Home,Yes,Fatigue
+745,74,96,120/70,36.1,186,7654,Clinic,Yes,Chest pain
+888,119,100,139/85,36.8,152,2898,Home,No,Dizziness
+730,109,92,113/80,37.6,88,7120,Hospital,Yes,Dizziness
+537,84,90,114/78,37.0,161,5350,Hospital,Yes,Fatigue
+866,109,90,120/79,37.2,183,8242,Home,Yes,Chest pain
+477,88,99,112/85,38.2,112,4526,Hospital,Yes,Chest pain
+370,101,96,138/81,37.0,136,3097,Hospital,No,Fatigue
+451,109,90,113/89,38.0,117,7097,Hospital,No,Chest pain
+309,106,94,126/83,38.2,166,421,Home,No,None
+559,73,100,122/79,36.5,169,8396,Home,Yes,None
+695,115,95,133/81,38.2,175,7620,Home,No,Chest pain
+190,84,91,121/87,37.6,149,8492,Clinic,Yes,Dizziness
+612,113,99,132/75,37.6,109,6873,Clinic,Yes,None
+909,96,95,124/70,36.7,191,6374,Clinic,Yes,Chest pain
+534,69,90,132/82,38.4,87,6461,Home,No,None
+403,120,90,123/80,37.6,157,9142,Hospital,No,Dizziness
+212,98,96,140/74,38.5,144,7336,Home,No,Fatigue
+346,103,90,139/73,36.0,199,1669,Clinic,Yes,Chest pain
+278,72,93,140/72,36.8,121,1609,Home,No,Chest pain
+889,110,90,110/84,38.0,121,9058,Hospital,Yes,Fatigue
+419,86,97,134/90,38.0,125,989,Hospital,No,None
+430,95,90,136/89,36.8,143,2246,Hospital,No,Dizziness
+509,111,91,124/88,38.4,150,5579,Clinic,No,Chest pain
+833,91,97,116/75,37.4,132,357,Hospital,Yes,None
+385,67,97,131/78,37.6,192,8198,Clinic,No,None
+262,68,96,133/74,36.9,145,6000,Home,No,Dizziness
+786,99,100,127/88,36.5,191,5300,Home,No,Chest pain
+304,65,96,116/78,36.6,91,9664,Clinic,No,Chest pain
+327,80,96,140/74,36.1,135,4625,Hospital,Yes,Chest pain
+306,119,90,129/79,37.6,93,6455,Home,Yes,Chest pain
+267,78,92,130/90,38.4,149,4996,Home,No,Dizziness
+132,61,98,132/76,36.5,144,1424,Home,Yes,Chest pain
+280,69,93,127/80,37.2,135,5021,Home,Yes,Fatigue
+170,89,98,130/77,36.2,82,5748,Hospital,Yes,Dizziness
+408,89,96,124/70,36.7,86,9813,Clinic,No,Dizziness
+832,78,92,137/73,37.5,92,4857,Home,No,None
+839,86,94,131/79,36.7,181,1566,Hospital,Yes,Fatigue
+683,88,92,114/79,37.6,130,5514,Hospital,Yes,Fatigue
+183,118,96,120/86,36.3,108,7565,Clinic,No,Chest pain
+512,78,100,119/89,36.5,126,2849,Home,Yes,Dizziness
+610,62,93,122/77,37.6,132,870,Hospital,No,None
+893,109,97,115/81,37.5,126,2279,Clinic,Yes,None
+453,76,100,114/80,37.5,114,4941,Home,Yes,None
+282,110,90,125/86,36.8,169,5260,Hospital,Yes,None
+699,109,94,115/76,38.4,123,7164,Hospital,No,Chest pain
+584,104,95,132/73,36.6,196,8316,Clinic,Yes,Dizziness
+571,90,95,133/76,36.4,192,6971,Clinic,Yes,Dizziness
+680,113,97,118/82,38.1,193,7392,Hospital,Yes,Fatigue
+430,99,98,120/70,36.2,161,6887,Clinic,Yes,Dizziness
+744,102,93,135/85,37.3,80,4547,Home,No,Chest pain
+406,67,92,133/81,37.9,81,4191,Clinic,Yes,Dizziness
+895,74,95,133/85,37.7,168,2159,Clinic,Yes,Dizziness
+770,89,96,134/74,37.5,200,7748,Home,Yes,Chest pain
+640,86,94,125/87,38.1,99,1326,Home,Yes,Dizziness
+772,106,100,129/73,36.7,143,5866,Home,Yes,Dizziness
+417,81,91,138/89,38.0,108,3483,Home,No,None
+124,79,92,123/85,38.4,108,8753,Clinic,No,None
+656,106,90,114/89,36.2,91,498,Hospital,Yes,Fatigue
+466,113,96,123/88,37.1,169,6635,Clinic,No,None
+705,79,91,126/83,38.0,84,9058,Hospital,Yes,Fatigue
+632,95,100,124/80,37.4,154,1755,Hospital,Yes,Chest pain
+787,96,99,138/82,38.0,170,7185,Clinic,Yes,None
+153,108,95,138/70,36.6,152,8061,Hospital,No,Chest pain
+957,86,92,128/72,38.5,102,8869,Clinic,No,Chest pain
+711,66,100,114/71,36.8,146,2088,Clinic,Yes,None
+469,99,91,136/72,37.0,199,268,Home,No,Fatigue
+670,106,97,121/88,36.4,183,8103,Hospital,No,Chest pain
+918,71,91,137/71,38.4,128,6001,Clinic,Yes,Chest pain
+629,118,96,124/80,37.4,196,3156,Clinic,No,Fatigue
+235,60,95,139/70,36.2,185,4707,Hospital,No,None
+927,73,98,117/87,38.0,180,1291,Clinic,No,Fatigue
+613,111,92,123/73,37.2,145,6498,Clinic,Yes,Dizziness
+422,74,100,123/78,38.5,141,6651,Hospital,Yes,None
+746,119,92,134/86,38.4,119,8784,Hospital,Yes,Dizziness
+528,106,97,130/86,37.0,149,8301,Clinic,No,None
+484,90,99,132/87,36.4,102,2353,Hospital,No,None
+591,81,95,118/85,36.4,114,452,Clinic,Yes,Dizziness
+857,87,93,120/78,36.8,97,7022,Clinic,Yes,Dizziness
+375,99,97,133/72,37.5,172,2227,Clinic,Yes,None
+569,111,90,113/77,36.7,194,2164,Home,No,Fatigue
+165,60,98,120/88,37.6,129,4627,Hospital,No,Dizziness
+771,68,95,113/81,38.2,180,4484,Clinic,Yes,Chest pain
+408,91,94,121/85,37.1,168,3185,Clinic,No,None
+990,114,96,124/86,36.0,108,2978,Home,Yes,Dizziness
+333,65,92,140/75,36.5,143,7097,Clinic,Yes,None
+857,79,100,124/78,36.6,193,2339,Hospital,No,Fatigue
+634,100,95,130/85,38.0,116,8850,Home,No,Chest pain
+710,72,94,122/75,37.8,83,3740,Clinic,Yes,None
+133,118,98,133/86,36.4,140,3531,Clinic,Yes,Fatigue
+893,82,90,135/78,36.3,179,4764,Hospital,No,Chest pain
+316,61,98,123/77,37.4,148,6559,Clinic,No,Chest pain
+201,65,90,114/79,37.9,165,1821,Home,No,None
+646,110,98,121/74,37.7,167,5366,Home,Yes,Fatigue
+478,102,95,112/72,37.5,150,2387,Hospital,No,Fatigue
+141,86,99,126/84,36.3,81,5683,Home,Yes,None
+264,66,97,116/88,38.2,81,8767,Home,No,None
+516,65,100,138/84,38.2,139,880,Home,Yes,None
+882,117,91,139/85,37.0,137,676,Home,No,Chest pain
+298,65,94,122/80,38.4,86,5072,Clinic,Yes,None
+810,80,96,129/70,37.1,138,1166,Clinic,No,Dizziness
+367,76,93,140/86,37.7,129,9713,Home,Yes,Chest pain
+456,73,97,124/84,36.0,170,2103,Home,No,None
+116,106,91,139/77,37.1,97,7369,Clinic,Yes,Fatigue
+631,83,95,116/74,37.0,121,5101,Home,Yes,None
+894,100,93,112/77,36.5,114,7326,Clinic,Yes,Dizziness
+896,64,96,124/74,37.6,105,8242,Hospital,No,Fatigue
+305,86,90,111/88,36.1,168,2679,Hospital,No,Chest pain
+311,74,95,126/76,36.4,125,1376,Hospital,No,Chest pain
+958,113,93,139/82,37.4,93,2787,Clinic,No,None
+871,100,93,114/71,37.9,189,4971,Clinic,No,None
+161,88,91,133/73,38.3,111,5713,Clinic,Yes,None
+922,118,95,120/79,36.2,143,7216,Hospital,Yes,None
+201,90,97,129/70,36.2,158,7665,Hospital,Yes,Chest pain
+941,104,91,130/85,37.7,83,5726,Home,No,Dizziness
+284,84,100,125/71,37.0,127,8785,Home,Yes,None
+193,61,93,111/79,36.5,195,307,Hospital,No,Dizziness
+130,102,90,112/88,36.6,94,6337,Home,No,Fatigue
+874,87,98,138/90,36.9,188,3111,Home,Yes,Dizziness
+446,88,97,132/78,37.5,92,5605,Hospital,No,Fatigue
+325,69,99,116/86,36.3,127,7878,Home,No,Dizziness
+319,114,96,134/87,37.8,153,9752,Clinic,Yes,None
+111,93,100,112/76,38.4,82,2891,Home,Yes,Fatigue
+874,119,94,110/76,37.7,110,845,Hospital,Yes,Dizziness
+431,85,100,110/79,37.7,195,741,Hospital,Yes,Chest pain
+409,81,100,116/73,37.9,143,3472,Clinic,Yes,None
+484,73,96,113/89,36.7,121,4839,Clinic,No,Fatigue
+283,67,95,118/71,38.4,162,378,Home,Yes,Chest pain
+199,83,98,125/75,38.0,186,9202,Hospital,Yes,Chest pain
+623,79,100,132/79,37.4,193,3846,Home,Yes,Chest pain
+442,62,94,125/82,36.3,117,5582,Hospital,Yes,Dizziness
+904,74,93,120/84,38.1,167,9142,Home,No,Chest pain
+225,89,95,117/78,37.1,92,4447,Clinic,No,Chest pain
+674,81,93,110/90,36.4,198,6023,Home,No,Fatigue
+672,83,91,121/78,38.0,142,2437,Home,Yes,Chest pain
+414,62,97,125/87,37.6,155,8621,Clinic,No,Fatigue
+454,117,96,117/86,37.2,107,8534,Hospital,Yes,Dizziness
+643,68,98,111/87,38.2,149,2853,Hospital,Yes,Dizziness
+313,103,96,123/78,36.8,138,6778,Hospital,No,Fatigue
+626,69,97,117/86,36.3,101,4483,Home,No,Dizziness
+636,72,90,140/72,37.4,174,8051,Clinic,Yes,Dizziness
+374,65,98,122/70,38.3,95,7903,Home,Yes,Chest pain
+919,97,98,126/84,37.0,88,8284,Hospital,No,Dizziness
+874,104,99,121/84,36.2,142,8704,Home,Yes,Dizziness
+988,93,95,116/77,36.8,176,639,Hospital,No,None
+616,60,97,124/88,37.6,134,201,Hospital,Yes,Dizziness
+340,105,98,110/82,37.3,134,8502,Clinic,Yes,Fatigue
+438,91,96,132/86,36.9,165,4057,Hospital,Yes,None
+885,64,96,127/76,37.6,165,9991,Clinic,No,Chest pain
+679,107,90,125/84,36.5,135,2528,Hospital,Yes,None
+877,75,94,133/74,37.2,120,1301,Hospital,No,None
+262,62,96,126/76,37.7,130,4957,Hospital,Yes,None
+980,89,96,114/85,37.8,135,4489,Home,Yes,Chest pain
+210,68,94,138/90,37.3,100,1563,Home,Yes,Dizziness
+505,108,94,118/70,38.0,155,6284,Hospital,No,Dizziness
+209,110,93,140/71,37.4,195,5717,Home,Yes,Dizziness
+603,61,99,129/85,36.3,149,99,Home,No,Dizziness
+431,117,92,135/70,37.8,170,5601,Hospital,Yes,Fatigue
+150,76,95,140/74,38.3,196,6920,Home,No,None
+377,70,91,134/70,37.8,151,7985,Hospital,No,Dizziness
+547,72,93,132/74,38.3,152,3408,Home,Yes,Fatigue
+583,88,90,125/86,36.4,131,5757,Hospital,Yes,Chest pain
+215,106,90,126/70,38.1,171,8763,Hospital,No,None
+166,93,99,124/80,36.6,108,8566,Clinic,Yes,Fatigue
+222,116,94,124/84,37.7,182,874,Hospital,No,Fatigue
+134,116,96,130/75,37.0,136,7742,Hospital,No,Fatigue
+277,64,91,134/78,36.5,166,208,Hospital,Yes,Dizziness
+412,106,100,138/90,38.2,189,358,Hospital,No,Chest pain
+721,84,91,137/82,36.8,153,8337,Clinic,Yes,Fatigue
+404,109,96,136/71,38.0,114,5949,Home,Yes,Dizziness
+534,119,92,135/71,38.1,157,8426,Hospital,No,None
+621,111,96,127/81,37.0,97,6968,Home,Yes,Chest pain
